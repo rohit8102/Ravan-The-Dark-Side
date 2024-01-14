@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Instagram Profile</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        .profile-pic {
+            border-radius: 10%;
+            width: 100px; /* Adjust the size of the circle */
+            height: 100px; /* Adjust the size of the circle */
+            position: absolute;
+            top: 100px; /* Adjust the distance from the top */
+            left: 10px; /* Adjust the distance from the left */
+        }
+
+        .profile-details {
+            margin-left: 120px; /* Adjust the space to the right of the profile picture */
+        }
+        
+      
+    </style>
+</head>
+<body>
+    <h1>My Instagram Profile</h1>
+    <p><b>joker.o_</b></p>
+    <!-- Add your Instagram profile picture -->
+    
+    <img class="profile-pic" src="profile.jpeg" alt="My Instagram Profile Picture">
+
+    <!-- Add your Instagram profile details here -->
+    <div class="profile-details">
+        <p>Posts: 13</p>
+        <p>Followers: 92</p>
+        <p>Following: 43</p>
+        <!-- Add more details as needed -->
+        </div>
+    <div class="restprofile-details">
+    <p>❥Ｊｏｋｅｒ</p>
+    <p>Editor</p>
+    <p>💖 ROHIT💖 #cute</p>
+    <p>♥️ Møm-Dâd ♥️</p>
+    <p>♎ LIBRA ⚖️</p>
+    <p>🦚My MÉÑTØR ♥ LÕRD KRÎSHÑÅ♥</p>
+    <p>क्या सोच रहे हो, बस follow तो करना हैं। तुम्हारी जान तो नहीं मांग रहा हूं।🙏धन्यवाद🙏</p>
+    </div>
+   
+
+        <!-- You can also add a link to your Instagram profile -->
+        <a href="https://www.instagram.com/your_username/">Visit my Instagram profile</a>
+</body>
+</html>
